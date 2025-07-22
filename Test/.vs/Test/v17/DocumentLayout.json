@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": ".dockerignore",
               "ToolTip": "E:\\Git\\RenderSample\\Test\\.dockerignore",
               "RelativeToolTip": ".dockerignore",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-07-22T15:01:44.152Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "Dockerfile",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-22T14:31:17.606Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-22T14:31:17.606Z"
             }
           ]
         }
