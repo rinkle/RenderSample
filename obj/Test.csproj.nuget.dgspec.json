@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Git\\RenderSample\\Test\\Test.csproj": {}
+    "E:\\Git\\RenderSample\\Test.csproj": {}
   },
   "projects": {
-    "E:\\Git\\RenderSample\\Test\\Test.csproj": {
+    "E:\\Git\\RenderSample\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Git\\RenderSample\\Test\\Test.csproj",
+        "projectUniqueName": "E:\\Git\\RenderSample\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "E:\\Git\\RenderSample\\Test\\Test.csproj",
+        "projectPath": "E:\\Git\\RenderSample\\Test.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\Git\\RenderSample\\Test\\obj\\",
+        "outputPath": "E:\\Git\\RenderSample\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
